@@ -1,0 +1,68 @@
+nav {
+      	font-size: 15px; 
+      	margin-left: 40px; 
+      	margin-top: 10px; 
+      	float: left;
+   	}
+
+   	span {
+   		font-weight: bold
+   	}
+   	
+     	.button {
+     		float: right; 
+     		background: black; 
+     		color: white; 
+     		height: 30px
+   	}
+
+   	.blackbar {
+   		background: black; 
+   		height: 30px;
+   	}
+
+   	.image {margin-top: 25px;
+   		   margin-right: 30px;
+   		   float: right;
+   		   height: 50px;
+   	}
+
+   	.bold {}
+
+   	#poza {
+   		margin-left: 50px;
+   		float: left
+   	}
+
+   	#HOME {
+   		clear: left;
+   		margin-left: 60px
+   	}
+   	#construction {margin-left: 120px; 
+   		        background-color: gray; 
+   		        color: white; 
+   		        padding: 8px
+   		  }
+
+   	#santiago {
+   		     border: 1px solid black; 
+   		     margin-top: 50px; 
+   		     width: 35%; 
+   		     height:534px; 
+   		     float: right; 
+   		     text-align: center; 
+   		     margin-left:15px
+   		}
+
+   	#santiago_pic {
+   			margin-top: 5px
+   		}
+
+      #text {
+      	text-align: left; 
+      	margin: 7px
+      }
+
+      #info_stadium {margin-top: 120px}
+
+      #panoram_pic {margin-top: 10px}

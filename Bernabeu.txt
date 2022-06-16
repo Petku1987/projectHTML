@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+</style>
+</head>
+<body>
+<div style="border: 1px solid black; width: 35%; height:534px; float: right; text-align: center; margin-left:15px"> <p style="font-weight: bold" >Santiago Bernabeu </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Santiagobernabeupanoramav2.jpg/320px-Santiagobernabeupanoramav2.jpg" alt="Santiago Bernabeu" style="margin-top: 5px">
+<p style="text-align: left; margin: 7px;">
+<span style="font-weight: bold;">Full name:</span>	Estadio Santiago Bernabéu<br>
+<span style="font-weight: bold;">Location:</span>	Chamartín, Madrid, Spain<br>
+<span style="font-weight: bold;">Executive suites:</span>	245<br>
+<span style="font-weight: bold;">Capacity:</span>	81,044<br>
+<span style="font-weight: bold;">Record attendance:</span>	129,690 (19 April 1956)<br>
+<span style="font-weight: bold;">Field size: </span>105 m × 68 m <br>
+<span style="font-weight: bold;">Surface:</span>	Mixto hybrid grass<br><br>
+<span style="margin-left: 120px; background-color: gray; color: white; padding: 8px">Construction</span><br><br>
+<span style="font-weight: bold;">Built:</span>	October 1944 – December 1947 <br>
+<span style="font-weight: bold;">Opened:</span>	14 December 1947; 74 years ago<br>
+<span style="font-weight: bold;">Renovated:</span>	1982, 2001, 2020–present<br>
+<span style="font-weight: bold;">Expanded:</span>	1952, 1992, 1994, 2011<br>
+<span style="font-weight: bold;">Construction cost:</span> (€1,732,943)<br>
+<span style="font-weight: bold;">Architect:</span>	Manuel Muñoz Monasterio<br>  <span style="word-spacing:20px">Luis Alemany Soler</span>
+
+
+</p>
+
+</div>
+
+<p><span style="font-weight: bold;">The Santiago Bernabéu Stadium</span> (Spanish: Estadio Santiago Bernabéu) is a football stadium in Madrid, Spain. With a current seating capacity of 81,044, it has been the home stadium of Real Madrid since its completion in 1947. It is the second-largest stadium in Spain and third-largest home to a top-flight European club after Camp Nou and Westfalenstadion. <br><br>
+
+Named after footballer and former Real Madrid president Santiago Bernabéu, the stadium is one of the world's most famous football venues. It has hosted the final of the European Cup/UEFA Champions League on four occasions: in 1957, 1969, 1980, 2010. The stadium also hosted the second leg of the 2018 Copa Libertadores Finals, making Santiago Bernabéu the first (and only) stadium to host the two most important premier continental cup finals (UEFA Champions League and Copa Libertadores). <br><br>
+
+The final matches for the 1964 European Nations' Cup and the 1982 FIFA World Cup were also held at the Bernabéu, making it the first stadium in Europe to host both a UEFA Euro final and a FIFA World Cup final.
+
+<p style="font-weight: bold; ">History</p>
+On 22 June 1944, the Banco Mercantil e Industrial bank granted credit to Santiago Bernabéu and Rafael Salgado for the purchase of the land adjacent to the old Chamartín Stadium. On 5 September 1944, architects Manuel Muñoz Monasterio and Luis Alemany Soler were hired and the structure on the site began to give way to the new stadium. On 27 October 1944, construction work on the stadium began.<br><br>
+
+The Nuevo Estadio Chamartín (English: New Chamartín Stadium) was inaugurated on 14 December 1947 with a match between Real Madrid and the Portuguese side Os Belenenses, which resulted in a 3–1 victory for Los Blancos. The stadium had an initial capacity of 75,145 spectators, 27,645 of which had seats (7,125 covered) and 47,500 for standing fans. Sabino Barinaga was the first player to score in the new stadium.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Estadio_Santiago_Bernab%C3%A9u_%2801%29.jpg/799px-Estadio_Santiago_Bernab%C3%A9u_%2801%29.jpg" alt="Santiago Bernabeu Panoram" width="100%" style= "margin-top: 10px">
+
+<p>
+<span style="font-weight: bold;">Renovation plans</span><br><br>
+A €525-million renovation project was initially set to begin in summer 2017, but began in 2019. The capacity will be increased by approximately 4000 with the addition of an extra tier, bringing it to just over the 85000 mark, furthermore the height will also be increased by ten metres and a retractable roof as well as a retractable pitch will be added. The club is expected to sell the naming rights to the renovated stadium.<br><br>
+
+The work is expected to last three and a half years (2019–2022).<br><br>
+
+The renovation team utilises Roman techniques with raising the top, so as not to affect the operation of the stadium during the football season. "The project is complex because it will not stop the football and therefore complicates the works and design, which has a roof that encloses the whole stadium. They are going to lift the roof like the Romans did, but with modern technology. They will raise the inner ring by string-pulling with hydraulic jacks, bridge technology and ski lifts in a short period of time in the summer to respect the sporting calendar," said Tristán López Chicheri, the individual in charge of the renovation. In March 2020, Real Madrid decided to expedite the renovations after the Royal Spanish Football Federation suspended La Liga due to the COVID-19 pandemic. The expedition included interior work, which made the pitch unplayable and prompted Real Madrid to play their matches at the Alfredo Di Stéfano Stadium instead until the end of the 2020–21 season.<br><br>
+
+Chicheri believes the renovation will bring tourists to the stadium all year round, with many attractions planned. The stadium is supposed to have more restaurants, a shopping centre and a hotel, with some rooms having a view of the pitch. The "digital stadium of the future" will be equipped with a 360-degree screen and retractable roof "It is not only on matchdays that it will be used – there are venues like the Bernabéu that are in the middle of the city and it is a shame that they have no life beyond 35–40 matches a year," said Chicheri.
+</p>
+
+
+</body>
+</html>
+
+
